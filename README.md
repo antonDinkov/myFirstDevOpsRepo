@@ -7,3 +7,5 @@
 4.This is my 3rd change!
 
 5.This is 2nd pull!
+
+6.Making a conflict localy!
